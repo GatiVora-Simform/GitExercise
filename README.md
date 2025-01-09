@@ -1,1 +1,4 @@
-# GitExercise
+# Git-Exercise
+
+practice for git 
+
